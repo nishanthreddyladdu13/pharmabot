@@ -23,7 +23,7 @@ PharmaBot is a powerful web application designed to assist users in extracting a
 Clone the PharmaBot repository to your local machine:
 
 ```bash
-git clone https://github.com/kungfupanda420/pharmabot.git
+git clone https://github.com/nishanthreddyladdu13/pharmabot
 cd pharmabot
 ```
 
